@@ -1,6 +1,8 @@
-Projeto Base para Testes - .Net Core  
+## DIO Avanade FullStack Developer
 
 ## Implementando sua stack de testes unitários e integrados em um projeto .NET de Crowdfunding
 
-[Eliézer Zarpelão](https://github.com/elizarp)
+(Projeto Base para Testes - .Net Core)
+
+[Eliézer Zarpelão](https://github.com/elizarp)<br>
 [Marcos Freire](https://github.com/marcosfreire)
